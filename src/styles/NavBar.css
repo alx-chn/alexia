@@ -1,0 +1,45 @@
+.nav-link {
+    cursor: pointer;
+}
+
+#navContainer {
+    position: fixed;
+    top: 0;
+    background-color: #001a30;
+    z-index: 1000;
+    width: 100vw;
+    height: auto;
+}
+
+#navContainer.hidden {
+    display: none;
+}
+
+#nav {
+    color: white;
+    display: table;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    table-layout: fixed;
+    padding-top: 2vh;
+}
+
+#nav span {
+    font-family: 'Poiret One', cursive;
+    display: table-cell;
+    text-align: center;
+}
+
+hr {
+    border: none;
+    height: 1px; 
+    background-color: white;
+    width: 90%;
+}
+
+@media  (min-width: 200px) and (max-width: 500px) {
+    #nav {
+        font-size: 3vw;
+    }
+}

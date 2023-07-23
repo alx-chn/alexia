@@ -1,0 +1,46 @@
+#projects {
+    background-image: url("../images/Home.png");
+    position: relative;
+    height: auto;
+}
+
+.grid {
+    width: 80%;
+    margin-right: 0px;
+    padding-top: 150px;
+    padding-bottom: 40px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); /* Updated this line */
+    grid-gap: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.grid > div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.grid img , video{
+    width: 90%; 
+    height: auto;
+    border-radius: 15px;
+    border: white 1px solid;
+}
+
+.description {
+    color: white;
+    border: white 1px solid;
+    margin-top: 10px;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 0 15px 0 15px;
+    width: 90%; 
+}
+
+@media  (min-width: 200px) and (max-width: 500px) {
+    .grid img , video, .description{
+        width: 50vw; 
+    }
+}

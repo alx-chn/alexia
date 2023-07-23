@@ -1,0 +1,92 @@
+#contactMe {
+    background-image: url("../images/AboutMe.png");
+    position: relative;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.sideTitle {
+    font-family: 'Yeseva One', cursive;
+    font-size: 5vh;
+    color: white;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+}
+
+#info {
+    width: 45vw;
+    height: auto;
+    border-radius: 15px;
+    position: absolute;
+    top: 50%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+}
+
+ion-icon {
+    font-size: 30px;  /* Adjust this size as you need */
+    padding: 50px;
+}
+
+.contacts {
+    color: white;
+    width: 45vw;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 0 15px 0 15px;
+    border: white 1px solid;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 4vh;
+    position: relative;
+ }
+
+ .details {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+ }
+ .contacts:last-of-type {
+    margin-bottom: 0px;
+}
+
+@media  (min-width: 200px) and (max-width: 500px) {
+    .sideTitle {
+        position: static;
+        text-align: center;
+        position: absolute;
+        top: 12.5%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-size: 8.5vw;
+    }
+
+    #info {
+        left: 50%;
+    }
+
+    ion-icon {
+        font-size: 30px;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    .contacts {
+        height: 12.5vh;
+    }
+
+    .details {
+        display: none;
+    }
+    
+}
