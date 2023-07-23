@@ -1,19 +1,25 @@
 {
   "files": {
-    "main.css": "/alexia/static/css/main.dd540a91.css",
-    "main.js": "/alexia/static/js/main.52ceb9ce.js",
+    "main.css": "/alexia/static/css/main.fe615bb0.css",
+    "main.js": "/alexia/static/js/main.64bbb5a8.js",
     "static/js/787.a71561b8.chunk.js": "/alexia/static/js/787.a71561b8.chunk.js",
     "static/media/snapp.mp4": "/alexia/static/media/snapp.0bde8e2faca9322fbf6b.mp4",
+    "static/media/dd2.jpg": "/alexia/static/media/dd2.eacd17eafed66be11b43.jpg",
     "static/media/sudoku.mp4": "/alexia/static/media/sudoku.065a3700979fff0dc0fe.mp4",
+    "static/media/sic2.jpg": "/alexia/static/media/sic2.76ba2068d2b680d6aecd.jpg",
+    "static/media/hkie2.jpg": "/alexia/static/media/hkie2.9efc9ea6df9243b5317e.jpg",
     "static/media/HKU.png": "/alexia/static/media/HKU.60c7ab9ba2a3339ad4cf.png",
     "static/media/tac.mp4": "/alexia/static/media/tac.52e2058506159dd09fcf.mp4",
     "static/media/Alexia.JPG": "/alexia/static/media/Alexia.9936882e3b4db8c3896f.JPG",
+    "static/media/sic1.jpg": "/alexia/static/media/sic1.9453f19c155c3f525c12.jpg",
     "static/media/twodot.png": "/alexia/static/media/twodot.e4c52836685f3dca6c2e.png",
     "static/media/Experience.png": "/alexia/static/media/Experience.4af3a6d18a87fb52db21.png",
     "static/media/AboutMe.png": "/alexia/static/media/AboutMe.02bba9bbf1aacd7cb893.png",
     "static/media/hkpc.png": "/alexia/static/media/hkpc.b700cf6a36fccd58794f.png",
     "static/media/alexia.mp4": "/alexia/static/media/alexia.57390881e6b4dc25244f.mp4",
+    "static/media/hkie1.jpg": "/alexia/static/media/hkie1.c9c87a5f5d3c45668b81.jpg",
     "static/media/Home.png": "/alexia/static/media/Home.24820322aee39259f946.png",
+    "static/media/hkie3.jpeg": "/alexia/static/media/hkie3.328c840c8f1c20d7733f.jpeg",
     "static/media/breed.png": "/alexia/static/media/breed.1e570a7530c5e7e1b83e.png",
     "static/media/csa.png": "/alexia/static/media/csa.6f2abd79bdede4872a5f.png",
     "static/media/fwd.png": "/alexia/static/media/fwd.ae08349d2737289b204f.png",
@@ -21,12 +27,12 @@
     "static/media/InProgress.png": "/alexia/static/media/InProgress.130ed82b3e0aeec0c93a.png",
     "static/media/logo.svg": "/alexia/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/alexia/index.html",
-    "main.dd540a91.css.map": "/alexia/static/css/main.dd540a91.css.map",
-    "main.52ceb9ce.js.map": "/alexia/static/js/main.52ceb9ce.js.map",
+    "main.fe615bb0.css.map": "/alexia/static/css/main.fe615bb0.css.map",
+    "main.64bbb5a8.js.map": "/alexia/static/js/main.64bbb5a8.js.map",
     "787.a71561b8.chunk.js.map": "/alexia/static/js/787.a71561b8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd540a91.css",
-    "static/js/main.52ceb9ce.js"
+    "static/css/main.fe615bb0.css",
+    "static/js/main.64bbb5a8.js"
   ]
 }
