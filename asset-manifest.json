@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/alexia/static/css/main.f2c13b96.css",
-    "main.js": "/alexia/static/js/main.698bd38f.js",
+    "main.css": "/alexia/static/css/main.8637cfe0.css",
+    "main.js": "/alexia/static/js/main.65ea4b06.js",
     "static/js/787.a71561b8.chunk.js": "/alexia/static/js/787.a71561b8.chunk.js",
     "static/media/snapp.mp4": "/alexia/static/media/snapp.0bde8e2faca9322fbf6b.mp4",
     "static/media/dd2.jpg": "/alexia/static/media/dd2.eacd17eafed66be11b43.jpg",
@@ -28,12 +28,12 @@
     "static/media/InProgress.png": "/alexia/static/media/InProgress.130ed82b3e0aeec0c93a.png",
     "static/media/logo.svg": "/alexia/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/alexia/index.html",
-    "main.f2c13b96.css.map": "/alexia/static/css/main.f2c13b96.css.map",
-    "main.698bd38f.js.map": "/alexia/static/js/main.698bd38f.js.map",
+    "main.8637cfe0.css.map": "/alexia/static/css/main.8637cfe0.css.map",
+    "main.65ea4b06.js.map": "/alexia/static/js/main.65ea4b06.js.map",
     "787.a71561b8.chunk.js.map": "/alexia/static/js/787.a71561b8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f2c13b96.css",
-    "static/js/main.698bd38f.js"
+    "static/css/main.8637cfe0.css",
+    "static/js/main.65ea4b06.js"
   ]
 }
