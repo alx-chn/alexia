@@ -16,6 +16,9 @@ const AboutMe = () => {
                 <p>
                 My path, much like a river, has meandered and forged new routes, but my destination – leveraging technology to sculpt a better world – has remained as constant as the speed of light. (Please share more nerdy jokes with me :) ) 
                 </p>
+                <p>
+                I'm a big fan of straight-up chit-chats and bouncing ideas off of each other! If you're up for a fun discussion or simply want to delve deeper into my work, feel free to reach out. I'm all ears for a good conversation!
+                </p>
             </div>
         </section>
     )

@@ -34,8 +34,13 @@
 }
 
 .content {
+	margin-top: 50px;
 	margin-left: 5vw;
 	margin-right: 5vw;
+}
+
+.content a {
+	color: rgb(50, 102, 214);
 }
 
 #fwd {
@@ -60,7 +65,12 @@
 
 @media  (min-width: 200px) and (max-width: 500px) {
 	.swiper {
-		width: 45vw;
+		width: 75vw;
+		height: 250px;
+	}
+
+	.content {
+		margin-top: 0px;
 	}
 
 	.swiper-slide {
